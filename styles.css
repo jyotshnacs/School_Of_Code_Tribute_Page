@@ -1,1 +1,27 @@
 /* Copy and paste your CSS from CodePen into here */
+body {
+    margin: 60px;
+    font-family: monoscope;
+  }
+  #title {
+    background-color: #d3d3d3;
+    padding: 20px;
+    text-align: center;
+    font-size: 1em;
+  }
+  p {
+    font-size: 1em;
+    font-family: Comic Sans MS, Comic Sans MS5, cursive;
+    text-align: center;
+  }
+  
+  #image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+  }
+  #tribute-info{
+    background-color: #d3d3d3;
+    padding: 20px;
+  }
